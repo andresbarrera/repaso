@@ -1,0 +1,184 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.0  24604  2488 ?        Ss   20:54   0:00 /sbin/init
+root         2  0.0  0.0      0     0 ?        S    20:54   0:00 [kthreadd]
+root         3  0.0  0.0      0     0 ?        S    20:54   0:00 [ksoftirqd/0]
+root         6  0.0  0.0      0     0 ?        S    20:54   0:00 [migration/0]
+root         7  0.0  0.0      0     0 ?        S    20:54   0:00 [watchdog/0]
+root         8  0.0  0.0      0     0 ?        S    20:54   0:00 [migration/1]
+root         9  0.0  0.0      0     0 ?        S    20:54   0:00 [kworker/1:0]
+root        10  0.0  0.0      0     0 ?        S    20:54   0:00 [ksoftirqd/1]
+root        11  0.0  0.0      0     0 ?        S    20:54   0:00 [watchdog/1]
+root        12  0.0  0.0      0     0 ?        S    20:54   0:00 [migration/2]
+root        14  0.0  0.0      0     0 ?        S    20:54   0:00 [ksoftirqd/2]
+root        15  0.0  0.0      0     0 ?        S    20:54   0:00 [watchdog/2]
+root        16  0.0  0.0      0     0 ?        S    20:54   0:00 [migration/3]
+root        18  0.0  0.0      0     0 ?        S    20:54   0:00 [ksoftirqd/3]
+root        19  0.0  0.0      0     0 ?        S    20:54   0:00 [watchdog/3]
+root        20  0.0  0.0      0     0 ?        S<   20:54   0:00 [cpuset]
+root        21  0.0  0.0      0     0 ?        S<   20:54   0:00 [khelper]
+root        22  0.0  0.0      0     0 ?        S    20:54   0:00 [kdevtmpfs]
+root        23  0.0  0.0      0     0 ?        S<   20:54   0:00 [netns]
+root        25  0.0  0.0      0     0 ?        S    20:54   0:00 [sync_supers]
+root        26  0.0  0.0      0     0 ?        S    20:54   0:00 [bdi-default]
+root        27  0.0  0.0      0     0 ?        S<   20:54   0:00 [kintegrityd]
+root        28  0.0  0.0      0     0 ?        S<   20:54   0:00 [kblockd]
+root        30  0.0  0.0      0     0 ?        S<   20:54   0:00 [ata_sff]
+root        31  0.0  0.0      0     0 ?        S    20:54   0:00 [khubd]
+root        32  0.0  0.0      0     0 ?        S<   20:54   0:00 [md]
+root        34  0.0  0.0      0     0 ?        S    20:54   0:00 [khungtaskd]
+root        35  0.0  0.0      0     0 ?        S    20:54   0:00 [kswapd0]
+root        36  0.0  0.0      0     0 ?        SN   20:54   0:00 [ksmd]
+root        37  0.0  0.0      0     0 ?        SN   20:54   0:00 [khugepaged]
+root        38  0.0  0.0      0     0 ?        S    20:54   0:00 [fsnotify_mark]
+root        39  0.0  0.0      0     0 ?        S    20:54   0:00 [ecryptfs-kthr]
+root        40  0.0  0.0      0     0 ?        S<   20:54   0:00 [crypto]
+root        49  0.0  0.0      0     0 ?        S<   20:54   0:00 [kthrotld]
+root        51  0.0  0.0      0     0 ?        S    20:54   0:07 [kworker/1:1]
+root        53  0.0  0.0      0     0 ?        S<   20:54   0:00 [binder]
+root        72  0.0  0.0      0     0 ?        S<   20:54   0:00 [deferwq]
+root        73  0.0  0.0      0     0 ?        S<   20:54   0:00 [charger_manag]
+root        74  0.0  0.0      0     0 ?        S<   20:54   0:00 [devfreq_wq]
+root       242  0.0  0.0      0     0 ?        S    20:54   0:00 [scsi_eh_0]
+root       245  0.0  0.0      0     0 ?        S    20:54   0:00 [scsi_eh_1]
+root       246  0.0  0.0      0     0 ?        S    20:54   0:00 [scsi_eh_2]
+root       247  0.0  0.0      0     0 ?        S    20:54   0:00 [scsi_eh_3]
+root       248  0.0  0.0      0     0 ?        S    20:54   0:00 [scsi_eh_4]
+root       249  0.0  0.0      0     0 ?        S    20:54   0:00 [scsi_eh_5]
+root       257  0.0  0.0      0     0 ?        R    20:54   0:06 [kworker/3:1]
+root       285  0.0  0.0      0     0 ?        S    20:54   0:00 [jbd2/sda6-8]
+root       286  0.0  0.0      0     0 ?        S<   20:54   0:00 [ext4-dio-unwr]
+root       375  0.0  0.0  17236   636 ?        S    20:55   0:00 upstart-udev-br
+root       380  0.0  0.0  22156  1972 ?        Ss   20:55   0:00 /sbin/udevd --d
+root       457  0.0  0.0      0     0 ?        S    20:55   0:00 [irq/42-mei]
+root       458  0.0  0.0      0     0 ?        S<   20:55   0:00 [cfg80211]
+root       464  0.0  0.0      0     0 ?        S<   20:55   0:00 [hci0]
+root       472  0.0  0.0      0     0 ?        S<   20:55   0:00 [kpsmoused]
+root       486  0.0  0.0      0     0 ?        S    20:55   0:00 [scsi_eh_6]
+root       505  0.0  0.0  22152  1508 ?        S    20:55   0:00 /sbin/udevd --d
+root       524  0.0  0.0  22152  1496 ?        S    20:55   0:00 /sbin/udevd --d
+root       533  0.0  0.0      0     0 ?        S    20:55   0:01 [rts5139-contr]
+root       539  0.5  0.0      0     0 ?        S    20:55   1:04 [rts5139-polli]
+root       623  0.0  0.0      0     0 ?        S    20:55   0:00 [kworker/3:2]
+root       692  0.0  0.0  15192   400 ?        S    20:55   0:00 upstart-socket-
+root       819  0.0  0.0      0     0 ?        S<   20:55   0:00 [kvm-irqfd-cle]
+root       828  0.0  0.0      0     0 ?        S<   20:55   0:00 [hd-audio0]
+root       829  0.0  0.0      0     0 ?        S<   20:55   0:00 [ttm_swap]
+102        925  0.0  0.0  25120  2316 ?        Ss   20:55   0:01 dbus-daemon --s
+root       948  0.0  0.0  79052  3208 ?        Ss   20:55   0:00 /usr/sbin/modem
+root       951  0.0  0.0  21192  1996 ?        Ss   20:55   0:00 /usr/sbin/bluet
+syslog     955  0.0  0.0 249480  1444 ?        Sl   20:55   0:00 rsyslogd -c5
+root       960  0.0  0.0 238192  5744 ?        Ssl  20:55   0:01 NetworkManager
+root       968  0.0  0.0      0     0 ?        S<   20:55   0:00 [krfcommd]
+avahi      971  0.0  0.0  32308  1660 ?        S    20:55   0:00 avahi-daemon: r
+avahi      972  0.0  0.0  32184   472 ?        S    20:55   0:00 avahi-daemon: c
+root       975  0.0  0.0 195412  4104 ?        Sl   20:55   0:00 /usr/lib/policy
+root      1025  0.0  0.0 104188  4180 ?        Ss   20:55   0:00 /usr/sbin/cupsd
+root      1054  0.0  0.0  31800  2364 ?        Ss   20:55   0:00 /sbin/wpa_suppl
+root      1056  0.0  0.0  19988   980 tty4     Ss+  20:55   0:00 /sbin/getty -8
+root      1065  0.0  0.0  19988   976 tty5     Ss+  20:55   0:00 /sbin/getty -8
+root      1074  0.0  0.0  19988   980 tty2     Ss+  20:55   0:00 /sbin/getty -8
+root      1077  0.0  0.0  19988   980 tty3     Ss+  20:55   0:00 /sbin/getty -8
+root      1084  0.0  0.0  19988   984 tty6     Ss+  20:55   0:00 /sbin/getty -8
+root      1105  0.0  0.0   4464   836 ?        Ss   20:55   0:00 acpid -c /etc/a
+whoopsie  1107  0.0  0.0 202280  5084 ?        Ssl  20:55   0:00 whoopsie
+root      1117  0.0  0.0  15984   696 ?        Ss   20:55   0:03 /usr/sbin/irqba
+root      1124  0.0  0.0  19116  1020 ?        Ss   20:55   0:00 cron
+daemon    1125  0.0  0.0  16912   380 ?        Ss   20:55   0:00 atd
+root      1198  0.0  0.0 270668  3536 ?        Ssl  20:55   0:00 lightdm
+root      1255  4.4  0.3 119052 24684 tty7     Ss+  20:55   8:13 /usr/bin/X :0 -
+root      1271  0.0  0.0  19988   988 tty1     Ss+  20:55   0:00 /sbin/getty -8
+root      1280  0.0  0.0 121536  3752 ?        Sl   20:55   0:00 /usr/lib/accoun
+root      1304  0.0  0.0 2091632 3836 ?        Sl   20:55   0:00 /usr/sbin/conso
+root      1417  0.0  0.0 219924  4368 ?        Sl   20:55   0:00 /usr/lib/upower
+colord    1551  0.0  0.1 491856 11708 ?        Sl   20:55   0:00 /usr/lib/x86_64
+root      1565  0.0  0.0 156908  3572 ?        Sl   20:55   0:00 lightdm --sessi
+rtkit     1607  0.0  0.0 168876  1336 ?        SNl  20:55   0:00 /usr/lib/rtkit/
+root      1616  0.0  0.0   7268  1572 ?        S    20:55   0:00 /sbin/dhclient
+nobody    1628  0.0  0.0  33056  1576 ?        S    20:55   0:00 /usr/sbin/dnsma
+root      1724  0.0  0.0      0     0 ?        S    20:55   0:00 [flush-8:0]
+andres    1779  0.0  0.0 368864  3788 ?        Sl   20:55   0:00 /usr/bin/gnome-
+andres    1790  0.0  0.1 396376 10864 ?        Ssl  20:55   0:00 gnome-session -
+andres    1825  0.0  0.0  12572   324 ?        Ss   20:55   0:00 /usr/bin/ssh-ag
+andres    1828  0.0  0.0  26564   796 ?        S    20:55   0:00 /usr/bin/dbus-l
+andres    1829  0.0  0.0  27744  3544 ?        Ss   20:55   0:05 //bin/dbus-daem
+andres    1842  0.0  0.3 830976 29316 ?        Sl   20:55   0:04 /usr/lib/gnome-
+andres    1847  0.0  0.0  52556  2572 ?        S    20:55   0:00 /usr/lib/gvfs/g
+andres    1849  0.0  0.0 207912  2824 ?        Sl   20:55   0:00 /usr/lib/gvfs//
+andres    1856  3.1  1.1 1138032 90520 ?       Sl   20:55   5:47 compiz
+andres    1859  0.0  0.0  58276  3764 ?        S    20:55   0:00 /usr/lib/x86_64
+andres    1865  0.0  0.0  20188   944 ?        S    20:55   0:06 syndaemon -i 2.
+andres    1870  1.4  0.0 363196  6212 ?        S<l  20:55   2:38 /usr/bin/pulsea
+andres    1873  0.0  0.0  95960  2988 ?        S    20:55   0:00 /usr/lib/pulsea
+andres    1875  0.0  0.0  46372  2468 ?        S    20:55   0:00 /usr/lib/gvfs/g
+andres    1876  0.0  0.1 308408  9052 ?        Sl   20:55   0:00 /usr/lib/policy
+andres    1877  0.0  0.1 390292  9292 ?        Sl   20:55   0:00 /usr/lib/gnome-
+andres    1878  0.1  0.5 1305828 41856 ?       Sl   20:55   0:17 nautilus -n
+andres    1882  0.0  0.2 504076 17704 ?        Sl   20:55   0:02 nm-applet
+andres    1884  0.0  0.1 435304 12844 ?        Sl   20:55   0:00 bluetooth-apple
+andres    1893  0.0  0.0  70708  3992 ?        S    20:55   0:00 /usr/lib/gvfs/g
+root      1896  0.0  0.0 193452  3948 ?        Sl   20:55   0:00 /usr/lib/udisks
+root      1897  0.0  0.0  45520   804 ?        S    20:55   0:00 udisks-daemon: 
+andres    1900  0.0  0.0 142084  2524 ?        Sl   20:55   0:00 /usr/lib/gvfs/g
+andres    1903  0.0  0.0  60340  2500 ?        S    20:55   0:00 /usr/lib/gvfs/g
+andres    1912  0.0  0.0  57356  3348 ?        S    20:55   0:00 /usr/lib/gvfs/g
+andres    1914  0.0  0.0  52556  2700 ?        S    20:55   0:00 /usr/lib/gvfs/g
+andres    1919  0.0  0.1 423068 12700 ?        Sl   20:55   0:05 /usr/lib/bamf/b
+andres    1934  0.0  0.0   4404   608 ?        Ss   20:55   0:00 /bin/sh -c /usr
+andres    1935  0.0  0.1 321196 12432 ?        Sl   20:55   0:04 /usr/bin/gtk-wi
+andres    1953  0.1  0.4 544068 36296 ?        Sl   20:55   0:15 /usr/lib/unity/
+andres    1955  0.0  0.1 360452 10296 ?        Sl   20:55   0:09 /usr/lib/indica
+andres    1964  0.0  0.0 602812  6332 ?        Sl   20:55   0:00 /usr/lib/indica
+andres    1966  0.0  0.0 442152  6636 ?        Sl   20:55   0:00 /usr/lib/indica
+andres    1968  0.0  0.0 557664  7568 ?        Sl   20:55   0:00 /usr/lib/indica
+andres    1976  0.0  0.1 490160 10872 ?        Sl   20:55   0:00 /usr/lib/indica
+andres    1977  0.0  0.0 530188  7124 ?        Sl   20:55   0:00 /usr/lib/indica
+andres    1987  0.0  0.0 495436  5172 ?        Sl   20:55   0:00 /usr/lib/indica
+andres    2000  0.0  0.0  47864  2740 ?        S    20:55   0:00 /usr/lib/geoclu
+andres    2009  0.0  0.0 333048  6748 ?        Sl   20:55   0:00 /usr/lib/ubuntu
+andres    2023  0.0  0.1 332652  9728 ?        Sl   20:55   0:00 /usr/lib/gnome-
+andres    2027  2.8  1.4 2899952 119784 ?      SLl  20:55   5:15 /usr/lib/chromi
+andres    2039  0.0  0.1 420024 12988 ?        Sl   20:55   0:00 /usr/lib/unity-
+andres    2041  0.0  0.0 811332  6532 ?        Sl   20:55   0:00 /usr/lib/unity-
+andres    2043  0.0  0.1 673104  8476 ?        Sl   20:55   0:00 /usr/lib/unity-
+andres    2045  0.0  0.1 440860 15900 ?        Sl   20:55   0:00 /usr/bin/python
+andres    2072  0.0  0.0 348348  5168 ?        Sl   20:55   0:00 /usr/bin/zeitge
+andres    2082  0.0  0.1 245704  9140 ?        Sl   20:55   0:00 /usr/lib/zeitge
+andres    2084  0.0  0.0 417988  6272 ?        Sl   20:55   0:00 zeitgeist-datah
+andres    2086  0.0  0.0  11384   352 ?        S    20:55   0:00 /bin/cat
+andres    2091  0.0  0.1 430196 11472 ?        Sl   20:55   0:00 telepathy-indic
+andres    2099  0.0  0.0 321440  6504 ?        Sl   20:55   0:00 /usr/lib/telepa
+andres    2104  0.0  0.1 400216 13772 ?        Sl   20:55   0:00 /usr/lib/gnome-
+andres    2106  0.0  0.0 586544  4632 ?        Sl   20:55   0:00 /usr/lib/unity-
+andres    2116  0.0  0.1 302320  9460 ?        S    20:55   0:01 /usr/lib/chromi
+andres    2117  0.0  0.0  14736   856 ?        S    20:55   0:00 /usr/lib/chromi
+andres    2118  0.0  0.3 322296 29952 ?        S    20:55   0:00 /usr/lib/chromi
+andres    2125  0.0  0.0 396028  7668 ?        S    20:55   0:00 /usr/lib/chromi
+andres    2145  0.0  0.1 310900  9672 ?        Sl   20:55   0:00 gnome-screensav
+andres    2169  0.0  0.2 624888 21332 ?        Sl   20:55   0:00 /usr/bin/python
+andres    2290  0.0  0.4 484656 39404 ?        Sl   20:55   0:00 /usr/bin/python
+andres    2313 48.5  0.9 1257124 73112 ?       Sl   20:55  88:57 /usr/lib/chromi
+andres    2345  0.0  0.1 408032 13712 ?        Sl   20:56   0:00 update-notifier
+andres    2416  0.0  0.0 289496  3832 ?        Sl   20:57   0:00 /usr/lib/deja-d
+andres    2423  0.0  0.0 262096  2732 ?        Sl   20:57   0:00 /usr/lib/dconf/
+andres    2895  0.0  0.0  16508  1200 ?        S    21:41   0:00 /bin/bash /usr/
+andres    2898  0.1  0.6 941376 49348 ?        Sl   21:41   0:13 /opt/sublime_te
+andres    3207  0.0  0.1 360208 14100 ?        Sl   21:57   0:00 /usr/lib/notify
+root      3240  0.1  0.0      0     0 ?        S    22:34   0:08 [kworker/2:0]
+root      3243  0.0  0.0      0     0 ?        S    22:40   0:04 [kworker/u:2]
+andres    3327  5.2  1.3 1192244 109868 ?      Sl   23:20   2:02 /usr/lib/chromi
+andres    3385  0.4  0.4 584528 35696 ?        Sl   23:27   0:09 gedit /home/and
+root      3452  0.0  0.0      0     0 ?        S    23:44   0:00 [kworker/0:0]
+root      3491  0.0  0.0      0     0 ?        S    23:49   0:00 [kworker/0:2]
+root      3543  0.0  0.0      0     0 ?        S    23:51   0:00 [kworker/2:2]
+root      3544  0.1  0.0      0     0 ?        S    23:52   0:00 [kworker/u:0]
+root      3563  0.0  0.0      0     0 ?        S    23:54   0:00 [kworker/0:1]
+andres    3577  0.0  0.0   4404   612 ?        Ss   23:56   0:00 /bin/sh -c gnom
+andres    3578  0.6  0.2 528752 18136 ?        Sl   23:56   0:00 gnome-terminal
+andres    3583  0.0  0.0  14792   824 ?        S    23:56   0:00 gnome-pty-helpe
+andres    3584  0.0  0.0  44628  4332 pts/1    Ss   23:56   0:00 zsh
+andres    3602  0.0  0.1  47576  8120 pts/1    S+   23:57   0:00 python3
+andres    3610  1.2  0.5 1126400 46116 ?       Sl   23:57   0:00 /usr/lib/chromi
+root      3617  0.0  0.0      0     0 ?        S    23:58   0:00 [kworker/u:1]
+root      3620  0.0  0.0      0     0 ?        S    23:58   0:00 [kworker/2:1]
+andres    3621  0.0  0.0   4404   612 pts/1    S+   23:59   0:00 sh -c ps aux > 
+andres    3622  0.0  0.0  22360  1280 pts/1    R+   23:59   0:00 ps aux
